@@ -87,3 +87,77 @@ a {
 .bi-crosshair {
   color: blue;
 }
+.find-cars-mobiles {
+  width: 350px;
+  height: 45px;
+  border: 2px solid black;
+  margin-top: 7px;
+  margin-left: 50px;
+}
+.input-section {
+  width: 80%;
+  height: 100%;
+}
+.input2 {
+  width: 100%;
+  height: 100%;
+  font-size: 1rem;
+  background: none;
+  border: none;
+}
+.search-button {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #002f34;
+}
+.search-btn {
+  color: white;
+  width: 100%;
+  height: 100%;
+  font-size: 30px;
+  padding-top: -10px;
+  border: none;
+  background: none;
+}
+.login-link {
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-link a {
+  color: black;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+.sell-section {
+  width: 100px;
+  height: 45px;
+  border-top-color: aqua;
+  border-right-color: rgb(37, 110, 255);
+  border-bottom-color: green;
+  border-left-color: orange;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 25px;
+  margin-top: 7px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sell-section button {
+  border: none;
+  background: none;
+  font-size: 1.6rem;
+  padding-top: 5px;
+}
+span {
+  margin-top: 4px;
+  font-weight: bold;
+  font-size: 1rem;
+}
